@@ -1,4 +1,4 @@
-v = input("Please write your name")
-print("good morning : " + v + "!")
+v = input("Please write your name: ")
+print(f"good morning {v} !")
 
 
